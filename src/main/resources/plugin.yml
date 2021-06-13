@@ -1,5 +1,5 @@
 name: CreativeCore-v2
-version: 1.0
+version: 1.2-BETA
 api-version: 1.16
 main: me.luucx7.creativecore.v2.CreativeCore
 author: Luucx7
@@ -7,3 +7,7 @@ website: github.com/Luucx7/
 commands:
   frame:
     aliases: [frameinvisivel]
+  quiz:
+    aliases: [qz]
+  resposta:
+    aliases: [answer, responder]
